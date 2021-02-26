@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigNumberSeparators", "BigN
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Keywords", "Keywords\Keywords.csproj", "{927C8BAD-63BC-415B-8A58-BEAD1AAF757D}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Obsolete", "Obsolete\Obsolete.csproj", "{567FD3CE-33C3-4240-AD96-18F44B65C983}"
+EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OptionalParameters", "OptionalParameters\OptionalParameters.csproj", "{F1B1FB1D-082B-42A5-8167-14E69EE49E24}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aliasing", "Aliasing\Aliasing.csproj", "{564F22E0-D446-443D-9669-67859B622415}"
