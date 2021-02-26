@@ -6,6 +6,7 @@ namespace LocalScopes
     {
         static void Main(string[] args)
         {
+            //Adding curly brackets adds a new scope which can't be accessed from outside.
             int outside = 1;
             
             {

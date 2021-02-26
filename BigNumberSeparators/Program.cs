@@ -6,7 +6,7 @@ namespace BigNumberSeparators
     {
         static void Main(string[] args)
         {
-            //Add underscores to big numbers to increase readability. The compiler will ignore them.
+            //Increase readability in big numbers by adding underscores. The compiler will ignore them.
             int myInt = 2_146_654_442;
             long myLong = 4_000_000_000;
             short myShort = 1_2_3;
