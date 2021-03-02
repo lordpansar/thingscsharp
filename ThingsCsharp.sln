@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Obsolete", "Obsolete\Obsole
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OptionalParameters", "OptionalParameters\OptionalParameters.csproj", "{F1B1FB1D-082B-42A5-8167-14E69EE49E24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aliasing", "Aliasing\Aliasing.csproj", "{564F22E0-D446-443D-9669-67859B622415}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aliasing", "Aliasing\Aliasing.csproj", "{564F22E0-D446-443D-9669-67859B622415}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
