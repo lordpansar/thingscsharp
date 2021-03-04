@@ -1,4 +1,4 @@
-﻿using MyNamespaceAlias = System.Console; //Assigning System.Console to the alias myPrettyAlias
+﻿using MyNamespaceAlias = System; //Assigning System namespace to the alias myPrettyAlias
 using MyTypeAlias = Aliasing.MyPrettyClass; //Assigning the type MyPrettyClass to the alias MyPrettyAlias
 
 
@@ -9,8 +9,8 @@ namespace Aliasing
         static void Main(string[] args)
         {
             //The above created namespace alias in action
-            MyNamespaceAlias.WriteLine("This text is brought to you by the namespace alias myPrettyAlias!");
-            MyNamespaceAlias.ReadLine();
+            MyNamespaceAlias.Console.WriteLine("This text is brought to you by the namespace alias myPrettyAlias!");
+            MyNamespaceAlias.Console.ReadLine();
 
             var myPrettyObject = new MyTypeAlias(); //An instance of the class MyPrettyClass as the alias MyTypeAlias
 
